@@ -2,24 +2,23 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-//        int rows;
-//        int cols;
-//        String symbol;
-//        System.out.print("Enter # of rows: ");
-//        rows = scanner.nextInt();
-//        System.out.print("Enter # of columns: ");
-//        cols = scanner.nextInt();
-//        System.out.print("Enter Symbol: ");
-//        symbol = scanner.next();
-//
-//        for (int i = 1; i <= rows; i++) {
-//            System.out.println();
-//            for (int j = 0; j < cols; j++) {
-//                System.out.print(symbol);
+//        String[] fruits = {"apple", "banana", "pineapple"};
+//        int[] steps = {200, 154, 100, 252, 235};
+//        int maxSteps = steps[0];
+//        int minSteps = steps[0];
+//        for (int i = 1; i < steps.length; i++) {
+//            if (steps[i] > maxSteps) {
+//                maxSteps = steps[i];
 //            }
 //        }
+//        for (int i = 1; i < steps.length; i++) {
+//            if (steps[i] < minSteps) {
+//                minSteps = steps[i];
+//            }
+//        }
+//        System.out.println("minimum steps: " + minSteps);
+//        System.out.println("maximum steps: " + maxSteps);
 
-        String[] fruits = {"apple", "banana", "pineapple"};
+
     }
 }
